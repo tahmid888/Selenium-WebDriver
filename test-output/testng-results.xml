@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-18T19:38:51 GMT+06:00" name="Suite" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2025-01-18T19:38:51 GMT+06:00" name="Test" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="49">
+      <class name="D43.allAnnotations">
+        <test-method is-config="true" signature="bs()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="bs" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="bt" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="bc" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="bm" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="tm1()[pri:1, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="tm1" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm1 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="am" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method signature="tm2()[pri:2, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="tm2" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tm2 -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="bm" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="am()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="am" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="ac" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="at" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:D43.allAnnotations@2a4fb17b]" started-at="2025-01-18T19:38:51 GMT+06:00" name="as" finished-at="2025-01-18T19:38:51 GMT+06:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- D43.allAnnotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
